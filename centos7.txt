@@ -1,0 +1,5 @@
+#安装完机器，开始操作
+yum -y install vim net-tools wget
+yum -y update
+#安装tiger VNC
+yum install -y tigervnc-server
